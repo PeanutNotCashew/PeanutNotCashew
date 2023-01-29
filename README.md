@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eleanor!
 - 👀 I’m interested in cyber security & the environment.
 - 🌱 I’m currently a high school student in Queens.
-- 📫 Reach me via school email.
 
 School replit: https://replit.com/@EleanorBSGE
 \
