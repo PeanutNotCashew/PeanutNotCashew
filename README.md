@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Eleanor
-- 👀 I’m interested in cyber security.
+- 👋 Hi, I’m Eleanor!
+- 👀 I’m interested in cyber security & the environment.
 - 🌱 I’m currently a high school student in Queens.
-- 📫 Reach me via school email
+- 📫 Reach me via school email.
 
-Find my school replit @ https://replit.com/@EleanorBSGE
+School replit: https://replit.com/@EleanorBSGE
+Personal replit: https://replit.com/@EllaFan
 
 <!---
 PeanutNotCashew/PeanutNotCashew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
