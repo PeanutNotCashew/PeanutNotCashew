@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eleanor!
 - 👀 I’m interested in cyber security & the environment.
-- 🌱 I’m currently a high school student in Queens.
+- 🌱 I’m currently a student from NYC.
 
 Replit: https://replit.com/@EllaFan
 
